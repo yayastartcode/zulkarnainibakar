@@ -1,0 +1,17 @@
+<svg width="340" height="340" viewBox="0 0 340 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="170" cy="200" rx="120" ry="80" fill="#F87171"/>
+  <ellipse cx="110" cy="170" rx="30" ry="18" fill="#FBBF24"/>
+  <ellipse cx="230" cy="170" rx="30" ry="18" fill="#FBBF24"/>
+  <ellipse cx="170" cy="220" rx="70" ry="40" fill="#F59E42"/>
+  <ellipse cx="90" cy="250" rx="18" ry="10" fill="#F87171"/>
+  <ellipse cx="250" cy="250" rx="18" ry="10" fill="#F87171"/>
+  <ellipse cx="170" cy="200" rx="18" ry="10" fill="#fff"/>
+  <ellipse cx="160" cy="198" rx="3" ry="4" fill="#222"/>
+  <ellipse cx="180" cy="198" rx="3" ry="4" fill="#222"/>
+  <path d="M60 120 Q80 100 110 170" stroke="#F87171" stroke-width="8" fill="none"/>
+  <path d="M280 120 Q260 100 230 170" stroke="#F87171" stroke-width="8" fill="none"/>
+  <path d="M40 80 Q70 60 110 170" stroke="#F59E42" stroke-width="6" fill="none"/>
+  <path d="M300 80 Q270 60 230 170" stroke="#F59E42" stroke-width="6" fill="none"/>
+  <circle cx="170" cy="270" r="8" fill="#fff"/>
+  <ellipse cx="170" cy="272" rx="3" ry="2" fill="#222"/>
+</svg>
