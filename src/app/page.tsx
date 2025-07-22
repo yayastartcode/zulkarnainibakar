@@ -14,13 +14,13 @@ export default function Home() {
               <span className="text-2xl font-bold text-red-900">Zulkarnainibakar</span>
             </div>
             <nav className="hidden md:flex space-x-8">
-              <a href="#hero" className="text-red-700 hover:text-red-900 font-medium transition-colors">Home</a>
-              <a href="#products" className="text-red-700 hover:text-red-900 font-medium transition-colors">Products</a>
-              <a href="#gallery" className="text-red-700 hover:text-red-900 font-medium transition-colors">Gallery</a>
-              <a href="#contact" className="text-red-700 hover:text-red-900 font-medium transition-colors">Contact</a>
+              <a href="#hero" className="text-red-700 hover:text-red-900 font-medium transition-colors">Utama</a>
+              <a href="#products" className="text-red-700 hover:text-red-900 font-medium transition-colors">Produk</a>
+              <a href="#gallery" className="text-red-700 hover:text-red-900 font-medium transition-colors">Galeri</a>
+              <a href="#contact" className="text-red-700 hover:text-red-900 font-medium transition-colors">Hubungi</a>
             </nav>
-            <a href="tel:+6289506091302" className="bg-red-600 hover:bg-red-700 text-white px-6 py-2 rounded-full font-semibold transition-colors">
-              Call Now
+            <a href="tel:+60143800463" className="bg-red-600 hover:bg-red-700 text-white px-6 py-2 rounded-full font-semibold transition-colors">
+              Hubungi Sekarang
             </a>
           </div>
         </div>
@@ -32,18 +32,18 @@ export default function Home() {
           <div className="flex flex-col lg:flex-row items-center gap-12">
             <div className="flex-1 text-center lg:text-left">
               <h2 className="text-5xl lg:text-6xl font-extrabold text-red-900 mb-6 leading-tight">
-                Fresh Live Crabs
-                <span className="block text-red-700">Premium Quality</span>
+                Ketam Hidup Segar
+                <span className="block text-red-700">Kualiti Premium</span>
               </h2>
               <p className="text-xl text-red-700 mb-8 max-w-2xl">
-                Spesialis kepiting hidup segar berkualitas tinggi untuk restoran dan konsumen di Kuala Lumpur. Pengiriman cepat dan terpercaya.
+                Pakar ketam hidup segar berkualiti tinggi untuk restoran dan pengguna di Kuala Lumpur. Penghantaran pantas dan boleh dipercayai.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                <a href="https://wa.me/6289506091302" className="bg-red-700 hover:bg-red-900 text-white px-8 py-4 rounded-full font-semibold text-lg transition-colors shadow-lg">
-                  Order Now
+                <a href="https://wa.me/60143800463" className="bg-red-700 hover:bg-red-900 text-white px-8 py-4 rounded-full font-semibold text-lg transition-colors shadow-lg">
+                  Tempah Sekarang
                 </a>
                 <a href="#products" className="border-2 border-red-700 text-red-700 hover:bg-red-700 hover:text-white px-8 py-4 rounded-full font-semibold text-lg transition-colors">
-                  View Products
+                  Lihat Produk
                 </a>
               </div>
             </div>
@@ -60,7 +60,7 @@ export default function Home() {
                 <div className="absolute -bottom-6 -right-6 bg-white rounded-2xl p-4 shadow-xl">
                   <div className="text-center">
                     <div className="text-2xl font-bold text-red-900">100%</div>
-                    <div className="text-sm text-red-700">Fresh & Live</div>
+                    <div className="text-sm text-red-700">Segar & Hidup</div>
                   </div>
                 </div>
               </div>
@@ -73,9 +73,9 @@ export default function Home() {
       <section id="products" className="py-20 bg-red-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h3 className="text-4xl font-bold text-red-900 mb-4">Our Premium Products</h3>
+            <h3 className="text-4xl font-bold text-red-900 mb-4">Produk Premium Kami</h3>
             <p className="text-xl text-red-700 max-w-3xl mx-auto">
-              Kepiting nipah super saiz berkualitas premium langsung dari perairan terbaik
+              Ketam nipah super saiz berkualiti premium terus dari perairan terbaik
             </p>
           </div>
           <div className="flex justify-center">
@@ -89,10 +89,10 @@ export default function Home() {
               />
               <div className="p-6">
                 <h4 className="text-xl font-semibold text-red-900 mb-2">Ketam Nipah Super Saiz 500gram</h4>
-                <p className="text-red-700 mb-4">Kepiting nipah ukuran super dengan berat 500gram per ekor. Kualitas premium dengan daging yang padat dan segar.</p>
+                <p className="text-red-700 mb-4">Ketam nipah saiz super dengan berat 500gram setiap ekor. Kualiti premium dengan daging yang padat dan segar.</p>
                 <div className="flex justify-between items-center">
                   <span className="text-2xl font-bold text-red-900">RM 55/kg</span>
-                  <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">Available</span>
+                  <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">Tersedia</span>
                 </div>
               </div>
             </div>
@@ -104,9 +104,9 @@ export default function Home() {
       <section id="gallery" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h3 className="text-4xl font-bold text-red-900 mb-4">Our Gallery</h3>
+            <h3 className="text-4xl font-bold text-red-900 mb-4">Galeri Kami</h3>
             <p className="text-xl text-red-700 max-w-3xl mx-auto">
-              Lihat koleksi kepiting segar berkualitas tinggi yang kami sediakan
+              Lihat koleksi ketam segar berkualiti tinggi yang kami sediakan
             </p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
@@ -190,9 +190,9 @@ export default function Home() {
       <section id="contact" className="py-20 bg-red-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h3 className="text-4xl font-bold text-white mb-4">Contact Us</h3>
+            <h3 className="text-4xl font-bold text-white mb-4">Hubungi Kami</h3>
             <p className="text-xl text-red-200 max-w-3xl mx-auto">
-              Hubungi kami untuk pemesanan atau informasi lebih lanjut
+              Hubungi kami untuk tempahan atau maklumat lanjut
             </p>
           </div>
           <div className="grid md:grid-cols-2 gap-12">
@@ -205,7 +205,7 @@ export default function Home() {
                   </svg>
                 </div>
                 <div>
-                  <h4 className="text-xl font-semibold text-white mb-2">Location</h4>
+                  <h4 className="text-xl font-semibold text-white mb-2">Lokasi</h4>
                   <p className="text-red-200">
                     BLOK G, NO 25 Plaza KLTS 99,<br />
                     Jl. Gombak, WP Kuala Lumpur,<br />
@@ -220,9 +220,9 @@ export default function Home() {
                   </svg>
                 </div>
                 <div>
-                  <h4 className="text-xl font-semibold text-white mb-2">Phone</h4>
-                  <a href="tel:+6289506091302" className="text-red-200 hover:text-white transition-colors text-lg">
-                    +62 895‑0609‑1302
+                  <h4 className="text-xl font-semibold text-white mb-2">Telefon</h4>
+                  <a href="tel:+60143800463" className="text-red-200 hover:text-white transition-colors text-lg">
+                    +60 14-380-0463
                   </a>
                 </div>
               </div>
@@ -233,28 +233,28 @@ export default function Home() {
                   </svg>
                 </div>
                 <div>
-                  <h4 className="text-xl font-semibold text-white mb-2">Business Hours</h4>
+                  <h4 className="text-xl font-semibold text-white mb-2">Waktu Perniagaan</h4>
                   <p className="text-red-200">
-                    Monday - Saturday<br />
-                    8:00 AM - 8:00 PM
+                    Isnin - Sabtu<br />
+                    8:00 Pagi - 8:00 Malam
                   </p>
                 </div>
               </div>
             </div>
             <div className="bg-white rounded-2xl p-8">
-              <h4 className="text-2xl font-bold text-red-900 mb-6">Send us a message</h4>
+              <h4 className="text-2xl font-bold text-red-900 mb-6">Hantar mesej kepada kami</h4>
               <form className="space-y-4">
                 <div>
-                  <input type="text" placeholder="Your Name" className="w-full text-black px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent" />
+                  <input type="text" placeholder="Nama Anda" className="w-full text-black px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent" />
                 </div>
                 <div>
-                  <input type="tel" placeholder="Phone Number" className="w-full text-black px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent" />
+                  <input type="tel" placeholder="Nombor Telefon" className="w-full text-black px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent" />
                 </div>
                 <div>
-                  <textarea rows={4} placeholder="Your Message" className="w-full text-black px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent resize-none"></textarea>
+                  <textarea rows={4} placeholder="Mesej Anda" className="w-full text-black px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent resize-none"></textarea>
                 </div>
                 <button type="submit" className="w-full bg-red-700 hover:bg-red-900 text-white py-3 rounded-lg font-semibold transition-colors">
-                  Send Message
+                  Hantar Mesej
                 </button>
               </form>
             </div>
@@ -285,21 +285,21 @@ export default function Home() {
               </div>
             </div>
             <div>
-              <h6 className="text-lg font-semibold mb-4">Quick Links</h6>
+              <h6 className="text-lg font-semibold mb-4">Pautan Pantas</h6>
               <ul className="space-y-2">
-                <li><a href="#hero" className="text-red-200 hover:text-white transition-colors">Home</a></li>
-                <li><a href="#products" className="text-red-200 hover:text-white transition-colors">Products</a></li>
-                <li><a href="#gallery" className="text-red-200 hover:text-white transition-colors">Gallery</a></li>
-                <li><a href="#contact" className="text-red-200 hover:text-white transition-colors">Contact</a></li>
+                <li><a href="#hero" className="text-red-200 hover:text-white transition-colors">Utama</a></li>
+                <li><a href="#products" className="text-red-200 hover:text-white transition-colors">Produk</a></li>
+                <li><a href="#gallery" className="text-red-200 hover:text-white transition-colors">Galeri</a></li>
+                <li><a href="#contact" className="text-red-200 hover:text-white transition-colors">Hubungi</a></li>
               </ul>
             </div>
             <div>
-              <h6 className="text-lg font-semibold mb-4">Contact Info</h6>
+              <h6 className="text-lg font-semibold mb-4">Maklumat Hubungan</h6>
               <div className="space-y-2 text-red-200">
                 <p>BLOK G, NO 25 Plaza KLTS 99</p>
                 <p>Jl. Gombak, WP Kuala Lumpur</p>
                 <p>Kuala Lumpur, Malaysia, 53000</p>
-                <p className="font-semibold">+62 895‑0609‑1302</p>
+                <p className="font-semibold">+60 14-380-0463</p>
               </div>
             </div>
           </div>
@@ -314,7 +314,7 @@ export default function Home() {
         {/* Floating WhatsApp Button */}
         <div className="fixed bottom-8 right-8 z-50">
           <a 
-            href="https://wa.me/6289506091302?text=Halo,%20saya%20ingin%20memesan%20ketam%20nipah%20super%20saiz" 
+            href="https://wa.me/60143800463?text=Halo,%20saya%20ingin%20memesan%20ketam%20nipah%20super%20saiz" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-2xl transition-all duration-300 transform hover:scale-110 flex items-center justify-center group"
