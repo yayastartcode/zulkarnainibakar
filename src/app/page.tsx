@@ -11,7 +11,7 @@ export default function Home() {
               <div className="w-10 h-10 bg-red-600 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-xl">🦀</span>
               </div>
-              <span className="text-2xl font-bold text-red-900">Zulkarnainibakar</span>
+              <span className="text-2xl font-bold text-red-900">Ketam Nipah</span>
             </div>
             <nav className="hidden md:flex space-x-8">
               <a href="#hero" className="text-red-700 hover:text-red-900 font-medium transition-colors">Utama</a>
@@ -267,7 +267,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-3 gap-8">
             <div>
-              <h5 className="text-2xl font-bold mb-4">Zulkarnainibakar</h5>
+              <h5 className="text-2xl font-bold mb-4">Ketam Nipah</h5>
               <p className="text-red-200 mb-4">
                 Supplier kepiting hidup terpercaya di Kuala Lumpur dengan kualitas premium dan pelayanan terbaik.
               </p>
@@ -305,7 +305,7 @@ export default function Home() {
           </div>
           <div className="border-t border-red-800 mt-8 pt-8 text-center">
             <p className="text-red-200">
-              &copy; {new Date().getFullYear()} Zulkarnainibakar. All rights reserved.
+              &copy; {new Date().getFullYear()} Ketam Nipah. All rights reserved.
             </p>
           </div>
         </div>

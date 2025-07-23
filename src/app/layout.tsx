@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Zulkarnainibakar - Premium Ketam Nipah Big size Suplier",
-  description: "Zulkarnainibakar - Premium Ketam Nipah Big size Suplier",
+  title: "Ketam Nipah - Premium Ketam Nipah Big size Suplier",
+  description: "Ketam Nipah - Premium Ketam Nipah Big size Suplier",
 };
 
 export default function RootLayout({
