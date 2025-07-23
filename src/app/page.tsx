@@ -121,7 +121,7 @@ export default function Home() {
             </div>
             <div className="aspect-square overflow-hidden rounded-xl">
               <Image
-                src="https://images.unsplash.com/photo-1650081486942-818b77296bde"
+                src="/ketam3.jpeg"
                 alt="Mud Crab"
                 width={300}
                 height={300}
@@ -130,7 +130,7 @@ export default function Home() {
             </div>
             <div className="aspect-square overflow-hidden rounded-xl">
               <Image
-                src="https://images.unsplash.com/photo-1567008247317-91a2b3b4f0b2"
+                src="/ketam4.jpeg"
                 alt="Blue Swimmer Crab"
                 width={300}
                 height={300}
@@ -139,7 +139,7 @@ export default function Home() {
             </div>
             <div className="aspect-square overflow-hidden rounded-xl">
               <Image
-                src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=300&h=300&fit=crop&crop=center"
+                src="/ketam5.jpeg"
                 alt="Flower Crab"
                 width={300}
                 height={300}
@@ -148,7 +148,7 @@ export default function Home() {
             </div>
             <div className="aspect-square overflow-hidden rounded-xl">
               <Image
-                src="https://images.unsplash.com/photo-1582515073490-39981397c445?w=300&h=300&fit=crop&crop=center"
+                src="/ketam6.jpeg"
                 alt="Seafood Market"
                 width={300}
                 height={300}
@@ -157,7 +157,7 @@ export default function Home() {
             </div>
             <div className="aspect-square overflow-hidden rounded-xl">
               <Image
-                src="https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=300&h=300&fit=crop&crop=center"
+                src="/ketam7.jpeg"
                 alt="Fresh Seafood"
                 width={300}
                 height={300}
@@ -175,7 +175,7 @@ export default function Home() {
             </div>
             <div className="aspect-square overflow-hidden rounded-xl">
               <Image
-                src="https://images.unsplash.com/photo-1542803417-f2be3270347d"
+                src="/ketam8.jpeg"
                 alt="Seafood Display"
                 width={300}
                 height={300}
