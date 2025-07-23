@@ -19,9 +19,9 @@ export default function Home() {
               <a href="#gallery" className="text-red-700 hover:text-red-900 font-medium transition-colors">Galeri</a>
               <a href="#contact" className="text-red-700 hover:text-red-900 font-medium transition-colors">Hubungi</a>
             </nav>
-            <a href="tel:+60143800463" className="bg-red-600 hover:bg-red-700 text-white px-6 py-2 rounded-full font-semibold transition-colors">
-              Hubungi Sekarang
-            </a>
+            <a href="tel:+601121974129" className="bg-red-600 hover:bg-red-700 text-white px-6 py-2 rounded-full font-semibold transition-colors">
+                Hubungi Sekarang
+              </a>
           </div>
         </div>
       </header>
@@ -39,7 +39,7 @@ export default function Home() {
                 Pakar ketam hidup segar berkualiti tinggi untuk restoran dan pengguna di Kuala Lumpur. Penghantaran pantas dan boleh dipercayai.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                <a href="https://wa.me/60143800463" className="bg-red-700 hover:bg-red-900 text-white px-8 py-4 rounded-full font-semibold text-lg transition-colors shadow-lg">
+                <a href="https://wa.me/601121974129" className="bg-red-700 hover:bg-red-900 text-white px-8 py-4 rounded-full font-semibold text-lg transition-colors shadow-lg">
                   Tempah Sekarang
                 </a>
                 <a href="#products" className="border-2 border-red-700 text-red-700 hover:bg-red-700 hover:text-white px-8 py-4 rounded-full font-semibold text-lg transition-colors">
@@ -221,9 +221,9 @@ export default function Home() {
                 </div>
                 <div>
                   <h4 className="text-xl font-semibold text-white mb-2">Telefon</h4>
-                  <a href="tel:+60143800463" className="text-red-200 hover:text-white transition-colors text-lg">
-                    +60 14-380-0463
-                  </a>
+                  <a href="tel:+601121974129" className="text-red-200 hover:text-white transition-colors text-lg">
+                      +60 11-2197-4129
+                    </a>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
@@ -296,11 +296,11 @@ export default function Home() {
             <div>
               <h6 className="text-lg font-semibold mb-4">Maklumat Hubungan</h6>
               <div className="space-y-2 text-red-200">
-                <p>BLOK G, NO 25 Plaza KLTS 99</p>
-                <p>Jl. Gombak, WP Kuala Lumpur</p>
-                <p>Kuala Lumpur, Malaysia, 53000</p>
-                <p className="font-semibold">+60 14-380-0463</p>
-              </div>
+                  <p>BLOK G, NO 25 Plaza KLTS 99</p>
+                  <p>Jl. Gombak, WP Kuala Lumpur</p>
+                  <p>Kuala Lumpur, Malaysia, 53000</p>
+                  <p className="font-semibold">+60 11-2197-4129</p>
+                </div>
             </div>
           </div>
           <div className="border-t border-red-800 mt-8 pt-8 text-center">
@@ -314,7 +314,7 @@ export default function Home() {
         {/* Floating WhatsApp Button */}
         <div className="fixed bottom-8 right-8 z-50">
           <a 
-            href="https://wa.me/60143800463?text=Halo,%20saya%20ingin%20memesan%20ketam%20nipah%20super%20saiz" 
+            href="https://wa.me/601121974129?text=Halo,%20saya%20ingin%20memesan%20ketam%20nipah%20super%20saiz" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-2xl transition-all duration-300 transform hover:scale-110 flex items-center justify-center group"
